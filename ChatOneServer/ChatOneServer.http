@@ -1,0 +1,6 @@
+@ChatOneServer_HostAddress = http://localhost:5249
+
+GET {{ChatOneServer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
